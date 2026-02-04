@@ -1,17 +1,15 @@
-# EAI Session 3 Presentation App
+# Session 3 slides app
 
-A custom React application for viewing the Enterprise Integration Patterns (Routing) presentation.
+Vite + React + TypeScript slide viewer.
 
-## Quick Start
+## Quick start
 
-1.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+npm run dev
+```
 
-2.  **Start the development (slide) server:**
-    ```bash
-    npm run dev
-    ```
-    Open your browser to the URL shown (usually `http://localhost:5173`).
+Vite will print a local URL (typically `http://localhost:5173`).
+
+For repo-level notes, see [`README.md`](README.md:1).
 
